@@ -1,0 +1,11 @@
+matplotlib
+numpy
+opencv-python-headless
+pillow
+psutil
+scikit-learn
+tensorboard
+timm
+torch
+torchvision
+tqdm
